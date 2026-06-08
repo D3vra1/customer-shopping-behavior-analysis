@@ -149,7 +149,7 @@ jupyter notebook Customer_Shopping_Behaviour.ipynb
 
 **Devraj Singh Sukhai**  
 📍 Nanded, Maharashtra, India  
-🎓 B.Tech Computer Science (2024)  
+🎓 B.SC Computer Science (2024)  
 📜 Google Data Analytics Professional Certificate  
 🔗 [GitHub](https://github.com/D3vra1)
 Linkedin🔗 https://www.linkedin.com/in/devrajsingh-sukhai-670430249
